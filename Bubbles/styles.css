@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color:black;
+}
+h1
+{
+  color: white;
+  text-align: center;
+}
+html {
+  height: 100%;
+  margin: 0px;
+}
+canvas {
+  display: block;
+}
+.wrapper
+{
+  position: relative;
+}
+.myDiv
+{
+  height: 500px;
+  width: 200px;
+  position: absolute;
+  background:  rgb(49, 47, 47);
+}
